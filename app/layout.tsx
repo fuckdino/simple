@@ -20,7 +20,6 @@ export const metadata: Metadata = {
   title: "Simple™ — Landings premium para negocios locales",
   description:
     "Creamos landings oscuras, elegantes y directas para negocios locales que necesitan explicar rápido, verse mejor que la competencia y capturar cotizaciones sin rodeos.",
-  generator: "v0.app",
   icons: {
     icon: [
       {
