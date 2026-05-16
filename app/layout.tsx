@@ -21,21 +21,7 @@ export const metadata: Metadata = {
   description:
     "Creamos landings oscuras, elegantes y directas para negocios locales que necesitan explicar rápido, verse mejor que la competencia y capturar cotizaciones sin rodeos.",
   icons: {
-    icon: [
-      {
-        url: "/icon-light-32x32.png",
-        media: "(prefers-color-scheme: light)",
-      },
-      {
-        url: "/icon-dark-32x32.png",
-        media: "(prefers-color-scheme: dark)",
-      },
-      {
-        url: "/icon.svg",
-        type: "image/svg+xml",
-      },
-    ],
-    apple: "/apple-icon.png",
+    icon: "/icon.svg",
   },
 };
 
